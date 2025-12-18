@@ -3,8 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\2024202060034\\Desktop\\EXAME FINAL\\EXAME FINAL\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{C9A47347-ABBC-45F1-BE56-009CC8A12178}|EXAME FINAL.csproj|c:\\users\\2024202060034\\desktop\\exame final\\exame final\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9A47347-ABBC-45F1-BE56-009CC8A12178}|EXAME FINAL.csproj|solutionrelative:cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9A47347-ABBC-45F1-BE56-009CC8A12178}|EXAME FINAL.csproj|c:\\users\\2024202060034\\desktop\\exame final\\exame final\\veiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9A47347-ABBC-45F1-BE56-009CC8A12178}|EXAME FINAL.csproj|solutionrelative:veiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{C9A47347-ABBC-45F1-BE56-009CC8A12178}|EXAME FINAL.csproj|c:\\users\\2024202060034\\desktop\\exame final\\exame final\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C9A47347-ABBC-45F1-BE56-009CC8A12178}|EXAME FINAL.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9A47347-ABBC-45F1-BE56-009CC8A12178}|EXAME FINAL.csproj|c:\\users\\2024202060034\\desktop\\exame final\\exame final\\locacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9A47347-ABBC-45F1-BE56-009CC8A12178}|EXAME FINAL.csproj|solutionrelative:locacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9A47347-ABBC-45F1-BE56-009CC8A12178}|EXAME FINAL.csproj|c:\\users\\2024202060034\\desktop\\exame final\\exame final\\veiculocarga.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9A47347-ABBC-45F1-BE56-009CC8A12178}|EXAME FINAL.csproj|solutionrelative:veiculocarga.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9A47347-ABBC-45F1-BE56-009CC8A12178}|EXAME FINAL.csproj|c:\\users\\2024202060034\\desktop\\exame final\\exame final\\veiculopasseio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9A47347-ABBC-45F1-BE56-009CC8A12178}|EXAME FINAL.csproj|solutionrelative:veiculopasseio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,17 +34,82 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "VeiculoCarga.cs",
+              "DocumentMoniker": "C:\\Users\\2024202060034\\Desktop\\EXAME FINAL\\EXAME FINAL\\VeiculoCarga.cs",
+              "RelativeDocumentMoniker": "VeiculoCarga.cs",
+              "ToolTip": "C:\\Users\\2024202060034\\Desktop\\EXAME FINAL\\EXAME FINAL\\VeiculoCarga.cs",
+              "RelativeToolTip": "VeiculoCarga.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-17T23:32:51.79Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Veiculo.cs",
+              "DocumentMoniker": "C:\\Users\\2024202060034\\Desktop\\EXAME FINAL\\EXAME FINAL\\Veiculo.cs",
+              "RelativeDocumentMoniker": "Veiculo.cs",
+              "ToolTip": "C:\\Users\\2024202060034\\Desktop\\EXAME FINAL\\EXAME FINAL\\Veiculo.cs",
+              "RelativeToolTip": "Veiculo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-17T23:15:53.516Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Locacao.cs",
+              "DocumentMoniker": "C:\\Users\\2024202060034\\Desktop\\EXAME FINAL\\EXAME FINAL\\Locacao.cs",
+              "RelativeDocumentMoniker": "Locacao.cs",
+              "ToolTip": "C:\\Users\\2024202060034\\Desktop\\EXAME FINAL\\EXAME FINAL\\Locacao.cs",
+              "RelativeToolTip": "Locacao.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-17T23:23:12.618Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "VeiculoPasseio.cs",
+              "DocumentMoniker": "C:\\Users\\2024202060034\\Desktop\\EXAME FINAL\\EXAME FINAL\\VeiculoPasseio.cs",
+              "RelativeDocumentMoniker": "VeiculoPasseio.cs",
+              "ToolTip": "C:\\Users\\2024202060034\\Desktop\\EXAME FINAL\\EXAME FINAL\\VeiculoPasseio.cs",
+              "RelativeToolTip": "VeiculoPasseio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-17T23:26:07.497Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Cliente.cs",
+              "DocumentMoniker": "C:\\Users\\2024202060034\\Desktop\\EXAME FINAL\\EXAME FINAL\\Cliente.cs",
+              "RelativeDocumentMoniker": "Cliente.cs",
+              "ToolTip": "C:\\Users\\2024202060034\\Desktop\\EXAME FINAL\\EXAME FINAL\\Cliente.cs",
+              "RelativeToolTip": "Cliente.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAQwAwAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-17T23:12:03.093Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\2024202060034\\Desktop\\EXAME FINAL\\EXAME FINAL\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\2024202060034\\Desktop\\EXAME FINAL\\EXAME FINAL\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFMAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-17T23:07:37.547Z",
               "EditorCaption": ""
